@@ -7,7 +7,7 @@ on:
 
 jobs:
   release:
-    if: github.repository == 'CloudHealth/helm'
+    if: github.repository == 'Broadcom/helm'
     permissions:
       contents: write
     runs-on: ubuntu-latest
