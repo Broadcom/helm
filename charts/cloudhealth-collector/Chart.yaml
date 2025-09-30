@@ -13,6 +13,6 @@ sources:
 - https://github.com/Broadcom/helm
 maintainers:
   - name: CloudHealth Team
-    email: cht-core-containers.pdl@broadcom.com
+    email: tis-eng-cfm-finsights.pdl@broadcom.com
 annotations:
   category: Cost
