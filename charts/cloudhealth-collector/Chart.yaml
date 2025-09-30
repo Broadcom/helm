@@ -10,9 +10,9 @@ appVersion: "7.3.0"
 home: https://cloudhealth.vmware.com/
 icon: https://d1fto35gcfffzn.cloudfront.net/images/Tanzu-Logomark.svg
 sources:
-- https://github.com/CloudHealth/helm
+- https://github.com/Broadcom/helm
 maintainers:
   - name: CloudHealth Team
-    email: cht-core-containers.pdl@broadcom.com
+    email: tis-eng-cfm-finsights.pdl@broadcom.com
 annotations:
   category: Cost

@@ -1,6 +1,6 @@
 Some commands for developers to work with:
 
-helm repo add cloudhealth https://cloudhealth.github.io/helm/
+helm repo add cloudhealth https://broadcom.github.io/helm/
 
 
 To dry-run the helm chart:
