@@ -27,7 +27,7 @@ jvmMemory: "-Xmx891M"
 
 image:
   repository: cloudhealth/container-collector
-  tag: "1500"
+  tag: "1510"
 
 imagePullSecrets: []
 nameOverride: ""
