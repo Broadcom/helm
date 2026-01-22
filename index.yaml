@@ -772,7 +772,7 @@ entries:
     - https://github.com/Broadcom/helm
     type: application
     urls:
-    - https://github.com/Broadcom/helm/releases/download/cloudhealth-collector-4.6.7/cloudhealth-collector-4.6.7.tgz/cloudhealth-collector-4.6.7.tgz
+    - https://github.com/Broadcom/helm/releases/download/cloudhealth-collector-4.6.7/cloudhealth-collector-4.6.7.tgz
     version: 4.6.7
   - annotations:
       category: Cost
