@@ -5,10 +5,52 @@ All notable changes for each upgraded tag of the CloudHealth Container Collector
 The agent has been verified against:
 
 [Kubernetes Versions ≥ 1.12](https://kubernetes.io/releases/)</br>
-[Kubernetes Versions ≤ 1.29](https://kubernetes.io/releases/)</br>
+[Kubernetes Versions ≤ 1.32](https://kubernetes.io/releases/)</br>
 [OC Version ≥ 4.1](https://docs.openshift.com/container-platform)
 
 All versions before June 20, 2022 (Version: 1191) have been deprecated.
+
+## [1510] - 2026-01-22
+
+### Security
+
+* Vulnerabilities patched:
+  * [CVE-2024-3596](https://avd.aquasec.com/nvd/cve-2024-3596)
+  * [CVE-2025-5914](https://avd.aquasec.com/nvd/cve-2025-5914)
+  * [CVE-2025-5915](https://avd.aquasec.com/nvd/cve-2025-5915)
+  * [CVE-2025-5916](https://avd.aquasec.com/nvd/cve-2025-5916)
+  * [CVE-2025-5917](https://avd.aquasec.com/nvd/cve-2025-5917)
+  * [CVE-2025-5918](https://avd.aquasec.com/nvd/cve-2025-5918)
+  * [CVE-2025-60753](https://avd.aquasec.com/nvd/cve-2025-60753)
+  * [CVE-2025-4517](https://avd.aquasec.com/nvd/cve-2025-4517)
+  * [CVE-2025-4138](https://avd.aquasec.com/nvd/cve-2025-4138)
+  * [CVE-2025-4330](https://avd.aquasec.com/nvd/cve-2025-4330)
+  * [CVE-2025-8194](https://avd.aquasec.com/nvd/cve-2025-8194)
+  * [CVE-2024-12718](https://avd.aquasec.com/nvd/cve-2024-12718)
+  * [CVE-2025-6965](https://avd.aquasec.com/nvd/cve-2025-6965)
+  * [CVE-2025-7709](https://avd.aquasec.com/nvd/cve-2025-7709)
+  * [CVE-2025-29088](https://avd.aquasec.com/nvd/cve-2025-29088)
+  * [CVE-2025-9086](https://avd.aquasec.com/nvd/cve-2025-9086)
+  * [CVE-2025-10148](https://avd.aquasec.com/nvd/cve-2025-10148)
+  * [CVE-2025-4947](https://avd.aquasec.com/nvd/cve-2025-4947)
+  * [CVE-2025-5025](https://avd.aquasec.com/nvd/cve-2025-5025)
+  * [CVE-2025-0395](https://avd.aquasec.com/nvd/cve-2025-0395)
+  * [CVE-2025-4802](https://avd.aquasec.com/nvd/cve-2025-4802)
+  * [CVE-2025-8058](https://avd.aquasec.com/nvd/cve-2025-8058)
+  * [CVE-2025-9230](https://avd.aquasec.com/nvd/cve-2025-9230)
+  * [CVE-2025-9232](https://avd.aquasec.com/nvd/cve-2025-9232)
+  * [CVE-2025-32988](https://avd.aquasec.com/nvd/cve-2025-32988)
+  * [CVE-2025-32990](https://avd.aquasec.com/nvd/cve-2025-32990)
+  * [CVE-2025-32989](https://avd.aquasec.com/nvd/cve-2025-32989)
+  * [CVE-2025-6395](https://avd.aquasec.com/nvd/cve-2025-6395)
+  * [CVE-2025-59375](https://avd.aquasec.com/nvd/cve-2025-59375)
+  * [CVE-2024-10963](https://avd.aquasec.com/nvd/cve-2024-10963)
+  * [CVE-2025-6020](https://avd.aquasec.com/nvd/cve-2025-6020)
+  * [CVE-2025-13601](https://avd.aquasec.com/nvd/cve-2025-13601)
+  * [CVE-2025-4373](https://avd.aquasec.com/nvd/cve-2025-4373)
+  * [CVE-2025-6141](https://avd.aquasec.com/nvd/cve-2025-6141)
+  * [CVE-2025-8916](https://avd.aquasec.com/nvd/cve-2025-8916)
+  * [CVE-2025-46551](https://avd.aquasec.com/nvd/cve-2025-46551)
 
 ## [1500] - 2025-04-16
 
