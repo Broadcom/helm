@@ -12,17 +12,6 @@ All versions before June 20, 2022 (Version: 1191) have been deprecated.
 
 Here is the updated content in a clean code block, strictly following the .md structure and linking format of your original file.
 
-Markdown
-# Changelog
-
-All notable changes for each upgraded tag of the CloudHealth Container Collector image.  Found on DockerHub: https://hub.docker.com/r/cloudhealth/container-collector
-
-The agent has been verified against:
-
-[Kubernetes Versions ≥ 1.12](https://kubernetes.io/releases/)</br>
-[Kubernetes Versions ≤ 1.29](https://kubernetes.io/releases/)</br>
-[OC Version ≥ 4.1](https://docs.openshift.com/container-platform)
-
 All versions before June 20, 2022 (Version: 1191) have been deprecated.
 
 ## [1510] - 2026-01-22
