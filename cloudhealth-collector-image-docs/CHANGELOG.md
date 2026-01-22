@@ -10,10 +10,6 @@ The agent has been verified against:
 
 All versions before June 20, 2022 (Version: 1191) have been deprecated.
 
-Here is the updated content in a clean code block, strictly following the .md structure and linking format of your original file.
-
-All versions before June 20, 2022 (Version: 1191) have been deprecated.
-
 ## [1510] - 2026-01-22
 
 ### Security
