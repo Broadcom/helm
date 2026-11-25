@@ -10,6 +10,124 @@ The agent has been verified against:
 
 All versions before June 20, 2022 (Version: 1191) have been deprecated.
 
+## [1520] - 2026-11-25
+
+### Security
+
+* Vulnerabilities patched:
+  * [CVE-2026-11564](https://avd.aquasec.com/nvd/cve-2026-11564)
+  * [CVE-2026-11856](https://avd.aquasec.com/nvd/cve-2026-11856)
+  * [CVE-2026-18924](https://avd.aquasec.com/nvd/cve-2026-18924)
+  * [CVE-2026-19931](https://avd.aquasec.com/nvd/cve-2026-19931)
+  * [CVE-2026-8925](https://avd.aquasec.com/nvd/cve-2026-8925)
+  * [CVE-2026-8926](https://avd.aquasec.com/nvd/cve-2026-8926)
+  * [CVE-2026-9079](https://avd.aquasec.com/nvd/cve-2026-9079)
+  * [CVE-2026-11352](https://avd.aquasec.com/nvd/cve-2026-11352)
+  * [CVE-2026-11586](https://avd.aquasec.com/nvd/cve-2026-11586)
+  * [CVE-2026-13608](https://avd.aquasec.com/nvd/cve-2026-13608)
+  * [CVE-2026-3805](https://avd.aquasec.com/nvd/cve-2026-3805)
+  * [CVE-2026-80229](https://avd.aquasec.com/nvd/cve-2026-80229)
+  * [CVE-2026-80230](https://avd.aquasec.com/nvd/cve-2026-80230)
+  * [CVE-2026-80231](https://avd.aquasec.com/nvd/cve-2026-80231)
+  * [CVE-2026-80255](https://avd.aquasec.com/nvd/cve-2026-80255)
+  * [CVE-2026-82208](https://avd.aquasec.com/nvd/cve-2026-82208)
+  * [CVE-2026-82209](https://avd.aquasec.com/nvd/cve-2026-82209)
+  * [CVE-2026-9080](https://avd.aquasec.com/nvd/cve-2026-9080)
+  * [CVE-2026-9545](https://avd.aquasec.com/nvd/cve-2026-9545)
+  * [CVE-2026-9546](https://avd.aquasec.com/nvd/cve-2026-9546)
+  * BDSA-2026-9096
+  * [CVE-2026-7009](https://avd.aquasec.com/nvd/cve-2026-7009)
+  * [CVE-2026-8458](https://avd.aquasec.com/nvd/cve-2026-8458)
+  * BDSA-2026-37211
+  * BDSA-2026-37215
+  * BDSA-2026-37245
+  * BDSA-2026-37247
+  * [CVE-2026-86413](https://avd.aquasec.com/nvd/cve-2026-86413)
+  * [CVE-2026-86414](https://avd.aquasec.com/nvd/cve-2026-86414)
+  * [CVE-2026-87861](https://avd.aquasec.com/nvd/cve-2026-87861)
+  * [CVE-2026-87866](https://avd.aquasec.com/nvd/cve-2026-87866)
+  * [CVE-2026-92388](https://avd.aquasec.com/nvd/cve-2026-92388)
+  * [CVE-2026-94265](https://avd.aquasec.com/nvd/cve-2026-94265)
+  * BDSA-2026-37183
+  * BDSA-2026-37222
+  * BDSA-2026-37251
+  * BDSA-2026-37255
+  * [CVE-2026-107928](https://avd.aquasec.com/nvd/cve-2026-107928)
+  * [CVE-2026-107929](https://avd.aquasec.com/nvd/cve-2026-107929)
+  * [CVE-2026-86410](https://avd.aquasec.com/nvd/cve-2026-86410)
+  * [CVE-2026-86412](https://avd.aquasec.com/nvd/cve-2026-86412)
+  * [CVE-2026-86415](https://avd.aquasec.com/nvd/cve-2026-86415)
+  * [CVE-2026-87862](https://avd.aquasec.com/nvd/cve-2026-87862)
+  * [CVE-2026-87863](https://avd.aquasec.com/nvd/cve-2026-87863)
+  * [CVE-2026-87865](https://avd.aquasec.com/nvd/cve-2026-87865)
+  * [CVE-2026-92386](https://avd.aquasec.com/nvd/cve-2026-92386)
+  * [CVE-2026-92387](https://avd.aquasec.com/nvd/cve-2026-92387)
+  * [CVE-2026-92389](https://avd.aquasec.com/nvd/cve-2026-92389)
+  * [CVE-2026-92390](https://avd.aquasec.com/nvd/cve-2026-92390)
+  * [CVE-2026-92391](https://avd.aquasec.com/nvd/cve-2026-92391)
+  * [CVE-2026-92392](https://avd.aquasec.com/nvd/cve-2026-92392)
+  * [CVE-2026-94266](https://avd.aquasec.com/nvd/cve-2026-94266)
+  * BDSA-2026-36539
+  * [CVE-2026-113351](https://avd.aquasec.com/nvd/cve-2026-113351)
+  * [CVE-2026-115506](https://avd.aquasec.com/nvd/cve-2026-115506)
+  * [CVE-2026-117610](https://avd.aquasec.com/nvd/cve-2026-117610)
+  * [CVE-2026-118370](https://avd.aquasec.com/nvd/cve-2026-118370)
+  * [CVE-2026-66046](https://avd.aquasec.com/nvd/cve-2026-66046)
+  * [CVE-2026-76957](https://avd.aquasec.com/nvd/cve-2026-76957)
+  * [CVE-2026-93990](https://avd.aquasec.com/nvd/cve-2026-93990)
+  * [CVE-2026-102633](https://avd.aquasec.com/nvd/cve-2026-102633)
+  * [CVE-2026-50219](https://avd.aquasec.com/nvd/cve-2026-50219)
+  * [CVE-2026-56131](https://avd.aquasec.com/nvd/cve-2026-56131)
+  * [CVE-2026-56132](https://avd.aquasec.com/nvd/cve-2026-56132)
+  * [CVE-2026-56403](https://avd.aquasec.com/nvd/cve-2026-56403)
+  * [CVE-2026-56404](https://avd.aquasec.com/nvd/cve-2026-56404)
+  * [CVE-2026-56405](https://avd.aquasec.com/nvd/cve-2026-56405)
+  * [CVE-2026-56406](https://avd.aquasec.com/nvd/cve-2026-56406)
+  * [CVE-2026-56407](https://avd.aquasec.com/nvd/cve-2026-56407)
+  * [CVE-2026-56408](https://avd.aquasec.com/nvd/cve-2026-56408)
+  * [CVE-2026-56409](https://avd.aquasec.com/nvd/cve-2026-56409)
+  * [CVE-2026-56410](https://avd.aquasec.com/nvd/cve-2026-56410)
+  * [CVE-2026-56411](https://avd.aquasec.com/nvd/cve-2026-56411)
+  * [CVE-2026-56412](https://avd.aquasec.com/nvd/cve-2026-56412)
+  * [CVE-2026-72522](https://avd.aquasec.com/nvd/cve-2026-72522)
+  * [CVE-2026-41080](https://avd.aquasec.com/nvd/cve-2026-41080)
+  * [CVE-2026-45186](https://avd.aquasec.com/nvd/cve-2026-45186)
+  * [CVE-2026-32776](https://avd.aquasec.com/nvd/cve-2026-32776)
+  * [CVE-2026-32777](https://avd.aquasec.com/nvd/cve-2026-32777)
+  * [CVE-2026-32778](https://avd.aquasec.com/nvd/cve-2026-32778)
+  * [CVE-2026-24515](https://avd.aquasec.com/nvd/cve-2026-24515)
+  * [CVE-2026-40355](https://avd.aquasec.com/nvd/cve-2026-40355)
+  * [CVE-2026-40356](https://avd.aquasec.com/nvd/cve-2026-40356)
+  * [CVE-2026-11850](https://avd.aquasec.com/nvd/cve-2026-11850)
+  * [CVE-2026-48863](https://avd.aquasec.com/nvd/cve-2026-48863)
+  * [CVE-2026-48864](https://avd.aquasec.com/nvd/cve-2026-48864)
+  * [CVE-2026-9149](https://avd.aquasec.com/nvd/cve-2026-9149)
+  * [CVE-2026-9150](https://avd.aquasec.com/nvd/cve-2026-9150)
+  * BDSA-2026-9020
+  * [CVE-2026-7598](https://avd.aquasec.com/nvd/cve-2026-7598)
+  * [CVE-2026-55199](https://avd.aquasec.com/nvd/cve-2026-55199)
+  * [CVE-2026-55200](https://avd.aquasec.com/nvd/cve-2026-55200)
+  * [CVE-2026-58050](https://avd.aquasec.com/nvd/cve-2026-58050)
+  * [CVE-2026-66032](https://avd.aquasec.com/nvd/cve-2026-66032)
+  * [CVE-2026-66033](https://avd.aquasec.com/nvd/cve-2026-66033)
+  * [CVE-2026-66034](https://avd.aquasec.com/nvd/cve-2026-66034)
+  * [CVE-2026-66035](https://avd.aquasec.com/nvd/cve-2026-66035)
+  * [CVE-2025-69720](https://avd.aquasec.com/nvd/cve-2025-69720)
+  * [CVE-2026-16389](https://avd.aquasec.com/nvd/cve-2026-16389)
+  * [CVE-2026-2781](https://avd.aquasec.com/nvd/cve-2026-2781)
+  * [CVE-2026-44604](https://avd.aquasec.com/nvd/cve-2026-44604)
+  * BDSA-2026-22478
+  * [CVE-2025-70873](https://avd.aquasec.com/nvd/cve-2025-70873)
+  * [CVE-2026-11824](https://avd.aquasec.com/nvd/cve-2026-11824)
+  * [CVE-2026-11822](https://avd.aquasec.com/nvd/cve-2026-11822)
+  * [CVE-2026-27171](https://avd.aquasec.com/nvd/cve-2026-27171)
+  * [CVE-2026-5588](https://avd.aquasec.com/nvd/cve-2026-5588)
+  * [CVE-2025-14813](https://avd.aquasec.com/nvd/cve-2025-14813)
+  * [CVE-2026-8763](https://avd.aquasec.com/nvd/cve-2026-8763)
+  * [CVE-2026-13506](https://avd.aquasec.com/nvd/cve-2026-13506)
+  * [CVE-2026-5598](https://avd.aquasec.com/nvd/cve-2026-5598)
+  * [CVE-2026-0636](https://avd.aquasec.com/nvd/cve-2026-0636)
+
 ## [1510] - 2026-01-22
 
 ### Security
